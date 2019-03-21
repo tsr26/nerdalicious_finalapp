@@ -8,7 +8,7 @@ class NerdaliciousExcavate(TethysAppBase):
 
     name = 'Nerdalicious Excavate'
     index = 'nerdalicious_excavate:home'
-    icon = 'nerdalicious_excavate/images/icon.gif'
+    icon = 'nerdalicious_excavate/images/icon.jpeg'
     package = 'nerdalicious_excavate'
     root_url = 'nerdalicious-excavate'
     color = '#d35400'
